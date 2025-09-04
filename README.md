@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Connect
-- LinkedIn: (http://www.linkedin.com/in/arjan-bathla-b59484236<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/1c659d8c-75de-41b1-b27c-1ce55774738f" />
+- LinkedIn: (http://www.linkedin.com/in/arjan-bathla-b59484236)
 )
 - Email: (arjanbathla23@gmail.com)
 
