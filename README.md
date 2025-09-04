@@ -19,7 +19,7 @@
 - **Predicting Developer Income** — clustering & classification on SO 2024 Developer survey dataset 
   Repo: (https://github.com/arjanbathla/developer-income-prediction)
 - **Cloud Load Balancer (Java + Docker)** — scheduling across file stores  
-  Repo: (ADD LINK)
+  Repo: (https://github.com/arjanbathla/load_balancer)
 
 ---
 
