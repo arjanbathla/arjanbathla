@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm ARJAN BATHLA
 
-<!--
-**arjanbathla/arjanbathla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Nottingham Trent University  
+💡 Into Data Science, Machine Learning, and Software Engineering  
+📍 Nottingham, UK
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Python, C++, C#, Java, SQL  
+**Tools:** React, Next.js, Tailwind, Prisma, Docker, JavaFX, Unity  
+**Data/ML:** pandas, NumPy, scikit-learn, Matplotlib, Gradient Boosting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Featured Projects
+- **Stock Portfolio Tracker (Next.js)** — auth with Clerk, Prisma ORM  
+  Repo: (https://github.com/arjanbathla/stock-portfolio-analyser)
+- **Airport Weather Forecasting App (Python)** — integrated live meteorological & aviation datasets with ML models (Linear Regression, Random Forest, Gradient Boosting) for short-term airport forecasts  
+  Repo: (https://github.com/arjanbathla/weather-prediction-app)
+- **Predicting Developer Income** — clustering & classification on SO 2024 Developer survey dataset 
+  Repo: (https://github.com/arjanbathla/developer-income-prediction)
+- **Cloud Load Balancer (Java + Docker)** — scheduling across file stores  
+  Repo: (ADD LINK)
+
+---
+
+## 📫 Connect
+- LinkedIn: (http://www.linkedin.com/in/arjan-bathla-b59484236<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/1c659d8c-75de-41b1-b27c-1ce55774738f" />
+)
+- Email: (arjanbathla23@gmail.com)
+
