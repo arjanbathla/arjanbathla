@@ -20,6 +20,9 @@
   Repo: (https://github.com/arjanbathla/developer-income-prediction)
 - **Cloud Load Balancer (Java + Docker)** — scheduling across file stores  
   Repo: (https://github.com/arjanbathla/load_balancer)
+- **Anomaly & Fraud Detection Platform (Python, ML)** — developed machine learning models for detecting fraudulent transactions and anomalies in financial datasets, using classification and ensemble techniques with evaluation via confusion matrix, precision/recall, and ROC-AUC  
+  Repo: (https://github.com/arjanbathla/Anomaly-Fraud-Detection-Platform)
+
 
 ---
 
