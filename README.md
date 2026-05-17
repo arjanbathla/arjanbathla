@@ -19,7 +19,7 @@
 
 - **TennisForm – Tennis Stroke Analysis System**  
   Built a Streamlit app that analyses phone-recorded tennis swings, tracks 33 body joints using pose estimation, and gives joint-level coaching feedback in under 5 seconds. Trained a Siamese Transformer model that achieved 94.8% validation accuracy.  
-  Repo: https://github.com/arjanbathla/tennis-form
+  Repo: https://github.com/arjanbathla/tennis-form-
 
 - **CarBot – Multi-Modal AI Automotive Chatbot**  
   Developed an AI chatbot combining AIML intent matching, TF-IDF/cosine-similarity retrieval, speech-to-text, text-to-speech, First-Order Logic inference and CNN-based car-brand image classification. Improved CNN accuracy from 43.2% to 70.67% using MobileNetV2 transfer learning.  
