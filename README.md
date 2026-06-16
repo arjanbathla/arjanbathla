@@ -43,7 +43,7 @@
 
 - **Anomaly & Fraud Detection Platform**  
   Developed machine learning models for detecting fraudulent transactions and anomalies in financial datasets using classification and ensemble methods, evaluated through confusion matrix, precision/recall and ROC-AUC.  
-  Repo: https://github.com/arjanbathla/Anomaly-Fraud-Detection-Platform
+  Repo: https://github.com/arjanbathla/fraud_detection_platform.git
 
 ---
 
