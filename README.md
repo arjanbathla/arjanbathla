@@ -27,11 +27,7 @@
 
 - **Stock Portfolio Tracker / Analyser**  
   Built a full-stack stock analysis platform using Next.js, TypeScript and Python FastAPI. Applied machine learning models including Linear Regression, XGBoost, Random Forest, LSTM, ARIMA and Prophet for prediction, downturn-risk analysis and forecasting.  
-  Repo: https://github.com/arjanbathla/stock-portfolio-analyser
-
-- **Airport Weather Forecasting App**  
-  Integrated live meteorological and aviation datasets with ML models including Linear Regression, Random Forest and Gradient Boosting for short-term airport weather forecasting.  
-  Repo: https://github.com/arjanbathla/weather-prediction-app
+  Repo: https://github.com/arjanbathla/portfolio_analytics_platform.git
 
 - **Predicting Developer Income**  
   Applied clustering and classification techniques to the Stack Overflow 2024 Developer Survey dataset to analyse developer income patterns.  
