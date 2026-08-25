@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at Nottingham Trent University  
 💡 Interested in Data Science, Machine Learning, Artificial Intelligence and Software Engineering  
-📍 Nottingham, UK  
+📍 London, UK  
 
 ---
 
